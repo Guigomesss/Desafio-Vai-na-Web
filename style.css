@@ -1,8 +1,12 @@
+body {
+  padding-left: 30px;
+  margin: 0px;
+}
+
 h1 {
   font-size: 36px;
   font-weight: 700;
   line-height: 43.57px;
-  text-align: left;
   color: #f587dd;
 }
 
@@ -18,30 +22,23 @@ p {
   font-size: 24px;
   font-weight: 400;
   line-height: 29.05px;
-  text-align: left;
 }
 
 div {
   font-size: 24px;
   font-weight: 400;
   line-height: 29.05px;
-  text-align: left;
 }
 
-section {
+.musicas, .filmes {
   background-color: #baf3f6;
-  width: 1440px;
-  height: 167px;
-  top: 620px;
-  gap: 0px;
-  opacity: 0px;
+  padding-left: 30px;
 }
 
 h2 {
   font-size: 36px;
   font-weight: 700;
   line-height: 43.57px;
-  text-align: left;
   color: #F587DD;
 }
 
@@ -49,7 +46,6 @@ ol {
   font-size: 24px;
   font-weight: 400;
   line-height: 29.05px;
-  text-align: left;
 }
 
 ul {
@@ -65,7 +61,6 @@ footer {
   width: 1482px;
   height: 39px;
   top: 985px;
-  font-family: Inter;
   font-size: 14px;
   font-weight: 700;
   line-height: 16.94px;
